@@ -8,7 +8,7 @@ Recently, I am studying the [Yolov5](https://github.com/ultralytics/yolov5) mode
 
 <p align="center">
 <div>
-  <img src="yolov5s_part.png"/>
+  <img src="img/yolov5s_part.png"/>
 </div>
 <div>
 Figure 1: shows the model architecture of Yolov5s.
